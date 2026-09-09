@@ -23,7 +23,7 @@ Power BI Desktop | DAX | Power Query | Data Modeling
 
  6. Files Included
 - Ecommerce dasboard.png - https://github.com/Rakhi-Mandal1234/Ecommerce-sales-dashboard/blob/main/Ecommerce%20dasboard.png
-- pbix file - 
+- pbix file - https://github.com/Rakhi-Mandal1234/Ecommerce-sales-dashboard/blob/main/e-commerce%20dashboard.pbix
 
 
 

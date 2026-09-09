@@ -13,10 +13,13 @@ Created interactive dashboard to track and analyze online sales data
 3.Tools Used
 Power BI Desktop, DAX, Power Query
 
-4.Dashboard Preview
-
-
-5.Features
+4.Features
 - Sales Amount: 438K, Profit: 37K
 - State-wise, Month-wise, Payment Mode analysis
 - Interactive Slicersonline sales data.
+
+
+5.Dashboard Preview  https://github.com/Rakhi-Mandal1234/Ecommerce-sales-dashboard/blob/main/Ecommerce%20dasboard.png
+
+
+
